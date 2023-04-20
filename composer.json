@@ -1,5 +1,5 @@
 {
-	"name": "wikimedia/aho-corasick",
+	"name": "lorlev/aho-corasick",
 	"description": "An implementation of the Aho-Corasick string matching algorithm.",
 	"keywords": [
 		"ahocorasick",
